@@ -47,4 +47,4 @@ This repository tracks all historical deals for **Doji Funding** published on Pr
 
 ---
 
-Last synced: 2026-10-29T01:50:11Z (auto, hourly)
+Last synced: 2026-10-29T02:05:06Z (auto, hourly)
