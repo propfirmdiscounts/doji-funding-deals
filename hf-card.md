@@ -62,7 +62,7 @@ This repository tracks all historical deals for **Doji Funding** published on Pr
 ## Freshness
 
 <!-- pfd-last-synced (auto-updated each sync) -->
-Last synced: 2026-10-29T12:46:24Z (auto, hourly)
+Last synced: 2026-10-29T13:40:09Z (auto, hourly)
 
 Codes are re-verified continuously by the PropFirmDiscount team; this mirror tracks the live API within an hour. Campaign codes come and go with each promotion; standing codes are re-verified yearly.
 
