@@ -19,7 +19,7 @@ tags:
 
 # Doji Funding Discount Code
 
-As of 2026-10-26, the verified Doji Funding discount code is **PFD** — up to 60% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-10-26, Doji Funding deals run up to 60% OFF with code PFD, which works any time — the newest is **60% Off All Challenges for Halloween**.
 
 > Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
 > What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
@@ -45,7 +45,7 @@ As of 2026-10-26, the verified Doji Funding discount code is **PFD** — up to 6
 - Offer ends: 2026-10-31
 - Offer: 60% off
 - Scope: 1-Step Challenges, 2-Step Challenges, Every Challenge, Configurator
-- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Code: PFD
 - Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/
 
 ## Doji Funding discount code FAQ

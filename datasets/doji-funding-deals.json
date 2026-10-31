@@ -16,7 +16,9 @@
     "standing_code": "PFD",
     "standing_discount": "60%",
     "activation_link": "https://propfirmdiscount.com/go/dojifunding",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/",
+    "code": "PFD",
+    "code_state": "standing"
   },
   {
     "deal_id": 12920,
@@ -35,6 +37,8 @@
     "standing_code": "PFD",
     "standing_discount": "60%",
     "activation_link": "https://propfirmdiscount.com/go/dojifunding",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/"
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/",
+    "code": "PFD",
+    "code_state": "standing"
   }
 ]
