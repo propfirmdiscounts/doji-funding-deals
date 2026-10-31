@@ -30,7 +30,7 @@ As of 2026-10-26, Doji Funding deals run up to 60% OFF with code PFD, which work
 > — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
 
 - Code: PFD
-- Discount: Up to 60% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-10-26
 - Trustpilot: 3.7/5 (1 reviews)
