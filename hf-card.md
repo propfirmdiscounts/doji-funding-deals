@@ -1,45 +1,70 @@
 ---
 license: other
+pretty_name: Doji Funding Discount Code
 configs:
 - config_name: doji-funding-deals
   data_files:
   - split: data
     path: datasets/doji-funding-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - doji-funding
 ---
 
-# Doji Funding - Discount Codes & Deal History
+# Doji Funding Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-26, the verified Doji Funding discount code is **PFD** — up to 60% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/doji-funding/
+> Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
+> What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
+> We keep trading rules clear and flexible. News trading and Expert Advisors are allowed, no stop-loss is required, and weekend and overnight holding is available as an option. Evaluation and funded accounts are simulated on real market data, and payouts are paid in real money.
+> Payouts are traceable and processed through trusted payment providers, with a reference number for every payout. Traders also earn Doji Coins on every lot traded, which can be redeemed for challenge discounts and profit split upgrades. Selected top performers may be invited to our Live Programme, which uses real capital.
+> Doji Funding is a trading name of Volatys Dynamics Ltd, incorporated in Gibraltar.
+>
+> — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
 
-**Verified exclusive discount code:** PFD (works any time; live rate always on prop firm page)
+- Code: PFD
+- Discount: Up to 60% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-26
+- Trustpilot: 3.7/5 (1 reviews)
+- Activate: https://propfirmdiscount.com/go/dojifunding
+- Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **PFD** to get **60% off** on Doji Funding challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Doji Funding evaluation accounts.
+## Current Doji Funding deal: 60% Off All Challenges for Halloween
+
+- Published: 2026-10-26
+- Offer ends: 2026-10-31
+- Offer: 60% off
+- Scope: 1-Step Challenges, 2-Step Challenges, Every Challenge, Configurator
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/
+
+## Doji Funding discount code FAQ
+
+**What is the Doji Funding discount code?**
+
+PFD. It is verified by PropFirmDiscount.com and takes up to 60% off Doji Funding challenges and accounts.
+
+**Does the Doji Funding discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Doji Funding deal?**
+
+**60% Off All Challenges for Halloween** — published 2026-10-26. Offer ends: 2026-10-31. The offer is 60% off.
 
 ---
 
-## Latest Deal
-
-### Doji Funding - 60% Off All Challenges for Halloween
-
-**Published:** 2026-10-26  
-**Offer ends:** 2026-10-31  
-**Discount:** 60% off  
-**Scope:** 1-Step Challenges, 2-Step Challenges, Every Challenge, Configurator  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **2**
 
@@ -52,19 +77,20 @@ Total deals tracked: **2**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Doji Funding** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Doji Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/doji-funding/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/doji-funding/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
