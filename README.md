@@ -25,6 +25,7 @@ As of 2026-10-26, Doji Funding deals run up to 60% OFF with code PFD, which work
 - Published: 2026-10-26
 - Offer ends: 2026-10-31
 - Offer: 60% off
+- Event: Halloween
 - Scope: 1-Step Challenges, 2-Step Challenges, Every Challenge, Configurator
 - Code: PFD
 - Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/
@@ -53,7 +54,7 @@ Total deals tracked: **2**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-10-26 | 60% Off All Challenges for Halloween | 60% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) |
+| 2026-10-26 | 60% Off All Challenges for Halloween | 60% off | 2026-10-31 | Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) |
 | 2026-10-12 | 30% Off Every Configurable Evaluation Account | 30% off | 2026-10-12 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) |
 
 ---
