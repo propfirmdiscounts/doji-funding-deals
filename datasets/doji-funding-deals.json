@@ -1,40 +1,40 @@
 [
   {
-    "prop_firm": "Doji Funding",
-    "prop_firm_slug": "doji-funding",
-    "standing_code": "PFD",
-    "standing_discount": "60%",
-    "activation_link": "https://propfirmdiscount.com/go/dojifunding",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/",
     "deal_id": 13032,
     "title": "60% Off All Challenges for Halloween",
-    "date_published": "2026-10-26",
-    "date_exp": "2026-10-31",
-    "discount_value": "60%",
-    "last_verified": "2026-10-26",
     "offer_type": "coupon",
+    "discount_value": "60%",
     "scope": [
       "1-Step Challenges, 2-Step Challenges, Every Challenge, Configurator"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/"
-  },
-  {
+    "date_published": "2026-10-26",
+    "date_exp": "2026-10-31",
+    "last_verified": "2026-10-26",
+    "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/",
     "prop_firm": "Doji Funding",
     "prop_firm_slug": "doji-funding",
     "standing_code": "PFD",
     "standing_discount": "60%",
     "activation_link": "https://propfirmdiscount.com/go/dojifunding",
-    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/"
+  },
+  {
     "deal_id": 12920,
     "title": "30% Off Every Configurable Evaluation Account",
-    "date_published": "2026-10-12",
-    "date_exp": "2026-10-12 (ended)",
-    "discount_value": "30%",
-    "last_verified": "2026-10-12",
     "offer_type": "coupon",
+    "discount_value": "30%",
     "scope": [
       "All Challenges, All Configurations, Forex, Indices, Stocks, Crypto, Metals, Energy"
     ],
-    "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/"
+    "date_published": "2026-10-12",
+    "date_exp": "2026-10-12 (ended)",
+    "last_verified": "2026-10-12",
+    "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/",
+    "prop_firm": "Doji Funding",
+    "prop_firm_slug": "doji-funding",
+    "standing_code": "PFD",
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/dojifunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/"
   }
 ]
