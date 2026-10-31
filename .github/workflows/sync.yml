@@ -17,11 +17,11 @@ concurrency:
 
 env:
   FIRM_SLUG: doji-funding
-  DEALSTORE_ID: 2862
+  DEALSTORE_ID: undefined
   FIRM_NAME: Doji Funding
   STANDING_CODE: PFD
   DISCOUNT: 60%
-  IS_GLOBAL: false
+  IS_GLOBAL: true
 
 jobs:
   sync:
