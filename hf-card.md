@@ -17,9 +17,17 @@ tags:
   - doji-funding
 ---
 
-# Doji Funding Discount Code
+# Doji Funding - Discount Codes & Deal History
 
 As of 2026-11-02, Doji Funding deals run up to 60% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings.
+
+> Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
+> What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
+> We keep trading rules clear and flexible. News trading and Expert Advisors are allowed, no stop-loss is required, and weekend and overnight holding is available as an option. Evaluation and funded accounts are simulated on real market data, and payouts are paid in real money.
+> Payouts are traceable and processed through trusted payment providers, with a reference number for every payout. Traders also earn Doji Coins on every lot traded, which can be redeemed for challenge discounts and profit split upgrades. Selected top performers may be invited to our Live Programme, which uses real capital.
+> Doji Funding is a trading name of Volatys Dynamics Ltd, incorporated in Gibraltar.
+>
+> — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
 
 - Code: PFD
 - Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
