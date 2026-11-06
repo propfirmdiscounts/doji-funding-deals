@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: dojifunding
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: doji-funding
   DEALSTORE_ID: 2862
   FIRM_NAME: Doji Funding
