@@ -23,7 +23,7 @@ As of 2026-11-02, Doji Funding deals run up to 60% OFF with code PFD, which work
 ## Current Doji Funding deal: 60% off every challenge, plus reset savings
 
 - Published: 2026-11-02
-- Offer ends: 2026-11-08
+- Offer ends: 2026-11-08 (ended)
 - Offer: 60% off
 - Scope: 1-Step And 2-Step Challenges
 - Code: PFD
@@ -41,7 +41,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Doji Funding deal?**
 
-**60% off every challenge, plus reset savings** — published 2026-11-02. Offer ends: 2026-11-08. The offer is 60% off.
+**60% off every challenge, plus reset savings** — published 2026-11-02. Offer ends: 2026-11-08 (ended). The offer is 60% off.
 
 ---
 
@@ -53,7 +53,7 @@ Total deals tracked: **3**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-02 | 60% off every challenge, plus reset savings | 60% off | 2026-11-08 | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) |
+| 2026-11-02 | 60% off every challenge, plus reset savings | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) |
 | 2026-10-26 | 60% Off All Challenges for Halloween | 60% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) |
 | 2026-10-12 | 30% Off Every Configurable Evaluation Account | 30% off | 2026-10-12 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) |
 
