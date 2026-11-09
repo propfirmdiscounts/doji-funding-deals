@@ -1,6 +1,6 @@
 # Doji Funding - Discount Codes & Deal History
 
-As of 2026-11-02, Doji Funding deals run up to 60% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings.
+As of 2026-11-02, Doji Funding deals run up to 40% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings.
 
 > Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
 > What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
@@ -11,7 +11,7 @@ As of 2026-11-02, Doji Funding deals run up to 60% OFF with code PFD, which work
 > — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
 
 - Code: PFD
-- Discount: Up to 60% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
+- Discount: Up to 40% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 3.7/5 (1 reviews)
@@ -33,7 +33,7 @@ As of 2026-11-02, Doji Funding deals run up to 60% OFF with code PFD, which work
 
 **What is the Doji Funding discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 60% off Doji Funding challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes up to 40% off Doji Funding challenges and accounts.
 
 **Does the Doji Funding discount code expire?**
 
