@@ -1,6 +1,6 @@
 # Doji Funding - Discount Codes & Deal History
 
-As of 2026-11-02, Doji Funding deals run up to 40% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings.
+As of 2026-11, Doji Funding deals run 40% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings.
 
 > Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
 > What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
@@ -11,7 +11,7 @@ As of 2026-11-02, Doji Funding deals run up to 40% OFF with code PFD, which work
 > — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
 
 - Code: PFD
-- Discount: Up to 40% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
+- Discount: 40% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 3.7/5 (1 reviews)
@@ -20,7 +20,7 @@ As of 2026-11-02, Doji Funding deals run up to 40% OFF with code PFD, which work
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Doji Funding deal: 60% off every challenge, plus reset savings
+## Current Doji Funding deal: 60% off every challenge, plus reset savings with code PFD
 
 - Published: 2026-11-02
 - Offer ends: 2026-11-08 (ended)
@@ -33,7 +33,7 @@ As of 2026-11-02, Doji Funding deals run up to 40% OFF with code PFD, which work
 
 **What is the Doji Funding discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes up to 40% off Doji Funding challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 40% off Doji Funding challenges and accounts.
 
 **Does the Doji Funding discount code expire?**
 
@@ -41,7 +41,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Doji Funding deal?**
 
-**60% off every challenge, plus reset savings** — published 2026-11-02. Offer ends: 2026-11-08 (ended). The offer is 60% off.
+**60% off every challenge, plus reset savings with code PFD** — published 2026-11-02. Offer ends: 2026-11-08 (ended). The offer is 60% off.
 
 ---
 
@@ -53,9 +53,9 @@ Total deals tracked: **3**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-02 | 60% off every challenge, plus reset savings | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) |
-| 2026-10-26 | 60% Off All Challenges for Halloween | 60% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) |
-| 2026-10-12 | 30% Off Every Configurable Evaluation Account | 30% off | 2026-10-12 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) |
+| 2026-11-02 | Doji Funding: 60% off every challenge, plus reset savings with code PFD | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) |
+| 2026-10-26 | Doji Funding: 60% Off All Challenges for Halloween with code PFD | 60% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) |
+| 2026-10-12 | Doji Funding: 30% Off Every Configurable Evaluation Account with code PFD | 30% off | 2026-10-12 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) |
 
 ---
 
