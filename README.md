@@ -1,3 +1,7 @@
+---
+description: "As of 2026-11, Doji Funding deals run 40% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings."
+---
+
 # Doji Funding - Discount Codes & Deal History
 
 As of 2026-11, Doji Funding deals run 40% OFF with code PFD, which works any time — the newest is 60% off every challenge, plus reset savings.
