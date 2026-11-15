@@ -19,11 +19,12 @@ As of 2026-11, Doji Funding deals run 40% OFF with code PFD, which works any tim
 - Discount: 40% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
-- Trustpilot: 3.7/5 (1 reviews)
-- Activate: https://propfirmdiscount.com/go/dojifunding
-- Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Trustpilot: [3.7/5 (1 reviews)](https://www.trustpilot.com/review/dojifunding.com)
+- GitHub repository: [https://github.com/propfirmdiscounts/doji-funding-deals](https://github.com/propfirmdiscounts/doji-funding-deals)
+- Activate: [https://propfirmdiscount.com/go/dojifunding](https://propfirmdiscount.com/go/dojifunding)
+- Firm page: [https://propfirmdiscount.com/prop-firm/doji-funding/](https://propfirmdiscount.com/prop-firm/doji-funding/)
+- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Doji Funding deal: 60% off every challenge, plus reset savings with code PFD
 
@@ -32,7 +33,7 @@ As of 2026-11, Doji Funding deals run 40% OFF with code PFD, which works any tim
 - Offer: 60% off
 - Scope: 1-Step And 2-Step Challenges
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/
+- Deal page: [https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/)
 
 ## Doji Funding discount code FAQ
 
@@ -68,9 +69,9 @@ Total deals tracked: **3**
 
 This repository mirrors every deal **Doji Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/doji-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [https://propfirmdiscount.com/prop-firm/doji-funding/](https://propfirmdiscount.com/prop-firm/doji-funding/)
+- All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/doji-funding-deals.json`
 
