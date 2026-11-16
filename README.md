@@ -1,6 +1,6 @@
 # Doji Funding - Discount Codes & Deal History
 
-As of November 2026, Doji Funding deals offer 40% OFF with code PFD, which can be applied on the checkout page anytime.
+As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% off every challenge, plus reset savings with code PFD".
 
 > Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
 > What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
@@ -15,10 +15,10 @@ As of November 2026, Doji Funding deals offer 40% OFF with code PFD, which can b
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
 - Last deal published: 2026-11-02
 - Trustpilot: 3.7/5 (1 reviews)
-- Activate: https://propfirmdiscount.com/go/dojifunding
-- Firm page: https://propfirmdiscount.com/prop-firm/doji-funding/
-- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
-- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
+- Activate: [Activate Doji Funding Discount Code](https://propfirmdiscount.com/go/dojifunding)
+- Firm page: [Doji Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/doji-funding/)
+- Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
+- Code record: [Doji Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Current Doji Funding deal: 60% off every challenge, plus reset savings with code PFD
 
@@ -27,7 +27,7 @@ As of November 2026, Doji Funding deals offer 40% OFF with code PFD, which can b
 - Offer: 60% off
 - Scope: 1-Step And 2-Step Challenges
 - Code: PFD
-- Deal page: https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/
+- Deal page: [Doji Funding Deal Page](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/)
 
 ## Doji Funding discount code FAQ
 
@@ -63,9 +63,9 @@ Total deals tracked: **3**
 
 This repository mirrors every deal **Doji Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
-- Data source: https://propfirmdiscount.com
-- Prop firm profile: https://propfirmdiscount.com/prop-firm/doji-funding/
-- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Data source: [PropFirmDiscount.com](https://propfirmdiscount.com)
+- Prop firm profile: [Doji Funding Profile](https://propfirmdiscount.com/prop-firm/doji-funding/)
+- All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
 ## Fields in `datasets/doji-funding-deals.json`
 
@@ -108,4 +108,4 @@ file is the `Last deal published` value above.
 
 ## License
 
-Data © PropFirmDiscount. Codes may be referenced with attribution and a link to https://propfirmdiscount.com.
+Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
