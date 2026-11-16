@@ -1,6 +1,6 @@
-# Doji Funding - Discount Codes & Deal History
+# Doji Funding Discount Code & Deal History
 
-As of November 2026, the verified Doji Funding discount code is PFD — 40% OFF, which can be applied on the checkout page anytime. The newest is "60% off every challenge, plus reset savings with code PFD".
+As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% off every challenge, plus reset savings with code PFD".
 
 > Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
 > What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
@@ -12,7 +12,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 40% OFF,
 
 - Code: PFD
 - Discount: 40% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
-- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [3.7/5 (1 reviews)](https://www.trustpilot.com/review/dojifunding.com)
 - GitHub repository: [Doji Funding Deals Repository](https://github.com/propfirmdiscounts/doji-funding-deals)
@@ -21,7 +21,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 40% OFF,
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Doji Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
-## Current Doji Funding deal: 60% off every challenge, plus reset savings with code PFD
+## Latest Doji Funding deal: 60% off every challenge, plus reset savings with code PFD
 
 - Published: 2026-11-02
 - Offer ends: 2026-11-08 (ended)
@@ -30,7 +30,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 40% OFF,
 - Code: PFD
 - Deal page: [Doji Funding Deal Page](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/)
 
-## Doji Funding discount code FAQ
+## Doji Funding Discount Code & Deals FAQ
 
 **What is the Doji Funding discount code?**
 
@@ -46,7 +46,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Deal history
+## Doji Funding Deal History
 
 Total deals tracked: **3**
 
@@ -60,7 +60,7 @@ Total deals tracked: **3**
 
 ---
 
-## About this repository
+## About the Doji Funding Deals Dataset
 
 This repository mirrors every deal **Doji Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -68,7 +68,7 @@ This repository mirrors every deal **Doji Funding** has published on PropFirmDis
 - Prop firm profile: [Doji Funding Profile](https://propfirmdiscount.com/prop-firm/doji-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Fields in `datasets/doji-funding-deals.json`
+## Doji Funding Deal Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
@@ -100,13 +100,13 @@ To state this firm's offer: the code is `standing_code`, worth
 promotion, `discount_value` and `date_exp` describe that deal, and
 `post_url` is its page.
 
-## Freshness
+## Data Freshness & Verification
 
 Deal history above is the source of truth for what changed and when. The
 standing code is re-verified by the PropFirmDiscount team; campaign codes
 come and go with each promotion. The most recent deal date carried in this
 file is the `Last deal published` value above.
 
-## License
+## Data License
 
 Data © PropFirmDiscount. Codes may be referenced with attribution and a link to [PropFirmDiscount.com](https://propfirmdiscount.com).
