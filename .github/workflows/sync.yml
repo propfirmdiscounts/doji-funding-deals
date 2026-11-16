@@ -149,14 +149,13 @@ jobs:
           # code to the deal would be wrong, so the line states only the
           # standing rate.
           from datetime import datetime, timezone
-          now_month = datetime.now(timezone.utc).strftime('%Y-%m')
+          now_month = datetime.now(timezone.utc).strftime('%B %Y')
           if is_global:
-              answer = (f"As of {now_month}, {firm['name']} deals run "
-                        f"{discount_pct} OFF with code {code}, which works any time — the "
-                        f"newest is {raw_newest_title}.")
+              answer = (f"As of {now_month}, {firm['name']} deals offer "
+                        f"{discount_pct} OFF with code {code}, which can be applied on the checkout page anytime.")
           else:
               answer = (f"As of {now_month}, the verified {firm['name']} discount code is "
-                        f"{code} — {discount_pct} OFF, works any time. Its current "
+                        f"{code} — {discount_pct} OFF, which can be applied on the checkout page anytime. Its current "
                         f"deals run their own limited-time campaign codes.")
           readme += answer + '\n\n'
 
@@ -189,12 +188,17 @@ jobs:
           - Last deal published: {last_deal}
           """
           if tp_score:
-              readme += f"- Trustpilot: {tp_score}/5 ({tp_reviews} reviews)\n"
+              if tp_url:
+                  readme += f"- Trustpilot: [{tp_score}/5 ({tp_reviews} reviews)]({tp_url})\n"
+              else:
+                  readme += f"- Trustpilot: {tp_score}/5 ({tp_reviews} reviews)\n"
+          repo_url = f"https://github.com/propfirmdiscounts/{slug}-deals"
+          readme += f"- GitHub repository: [{repo_url}]({repo_url})\n"
           if activation:
-              readme += f"- Activate: {activation}\n"
-          readme += f"- Firm page: {firm['url']}\n"
-          readme += ("- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes\n"
-                     "- Code record: https://propfirmdiscount.com/api/prop-firm-codes/\n\n")
+              readme += f"- Activate: [{activation}]({activation})\n"
+          readme += f"- Firm page: [{firm['url']}]({firm['url']})\n"
+          readme += ("- Full dataset: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)\n"
+                     "- Code record: [https://propfirmdiscount.com/api/prop-firm-codes/](https://propfirmdiscount.com/api/prop-firm-codes/)\n\n")
 
           readme += f"""## Current {firm['name']} deal: {latest['title']}
 
@@ -211,7 +215,7 @@ jobs:
           else:
               readme += ("- Code: this deal carries its own limited-time campaign code, "
                          "shown on the deal page below\n")
-          readme += f"- Deal page: {latest['post_url']}\n\n"
+          readme += f"- Deal page: [{latest['post_url']}]({latest['post_url']})\n\n"
 
           # FAQ headings, phrased as the questions people type. Each answer is
           # built only from the fields above — nothing is asserted here that the
@@ -264,9 +268,9 @@ jobs:
 
           This repository mirrors every deal **{firm['name']}** has published on PropFirmDiscount.com, regenerated from the live API.
 
-          - Data source: https://propfirmdiscount.com
-          - Prop firm profile: {firm['url']}
-          - All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+          - Data source: [https://propfirmdiscount.com](https://propfirmdiscount.com)
+          - Prop firm profile: [{firm['url']}]({firm['url']})
+          - All firms: [https://github.com/propfirmdiscounts/prop-firm-discount-codes](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
           ## Fields in `datasets/{os.environ['FIRM_SLUG']}-deals.json`
 
