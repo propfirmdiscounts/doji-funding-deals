@@ -1,4 +1,4 @@
-# Doji Funding Discount Codes
+# Doji Funding Discount Code & Deals History
 
 This dataset tracks historical deal observations for Doji Funding from PropFirmDiscount.com.
 

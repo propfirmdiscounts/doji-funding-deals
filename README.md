@@ -1,4 +1,4 @@
-# Doji Funding Discount Code & Deal History
+# Doji Funding Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% off every challenge, plus reset savings with code PFD".
 
@@ -15,7 +15,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF,
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [3.7/5 (1 reviews)](https://www.trustpilot.com/review/dojifunding.com)
-- GitHub repository: [Doji Funding Deals Repository](https://github.com/propfirmdiscounts/doji-funding-deals)
+- GitHub repository: [Doji Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/doji-funding-deals)
 - Activate: [Activate Doji Funding Discount Code](https://propfirmdiscount.com/go/dojifunding)
 - Firm page: [Doji Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/doji-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -30,7 +30,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF,
 - Code: PFD
 - Deal page: [Doji Funding Deal Page](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/)
 
-## Doji Funding Discount Code & Deals FAQ
+## Doji Funding Discount Code & Deals History FAQ
 
 **What is the Doji Funding discount code?**
 
@@ -46,7 +46,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Doji Funding Deal History
+## Doji Funding Deals History
 
 Total deals tracked: **3**
 
@@ -60,7 +60,7 @@ Total deals tracked: **3**
 
 ---
 
-## About the Doji Funding Deals Dataset
+## About the Doji Funding Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Doji Funding** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -68,7 +68,7 @@ This repository mirrors every deal **Doji Funding** has published on PropFirmDis
 - Prop firm profile: [Doji Funding Profile](https://propfirmdiscount.com/prop-firm/doji-funding/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Doji Funding Deal Dataset: Field Definitions
+## Doji Funding Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
