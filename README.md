@@ -2,21 +2,11 @@
 
 As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF, which can be applied on the checkout page anytime. The newest is "60% off every challenge, plus reset savings with code PFD".
 
-> Doji Funding is a proprietary trading firm (prop firm) for forex, indices, metals, energies, stocks and crypto traders. Traders pass a paid evaluation challenge on a simulated account, then trade a funded account and keep a share of the profits they generate, up to 90%.
-> What makes Doji Funding different is that every challenge is configurable (500,000+ possible configurations). You choose your account size (from $5,000 to $200,000), profit target, daily loss and maximum drawdown limits, loss calculation type, profit split, minimum trading days and payout frequency: Daily, Weekly or Bi-Weekly. Prices adjust to your choices, so you only pay for the rules you want. There is no time limit on the challenge and no cap on the profits you can earn.
-> We keep trading rules clear and flexible. News trading and Expert Advisors are allowed, no stop-loss is required, and weekend and overnight holding is available as an option. Evaluation and funded accounts are simulated on real market data, and payouts are paid in real money.
-> Payouts are traceable and processed through trusted payment providers, with a reference number for every payout. Traders also earn Doji Coins on every lot traded, which can be redeemed for challenge discounts and profit split upgrades. Selected top performers may be invited to our Live Programme, which uses real capital.
-> Doji Funding is a trading name of Volatys Dynamics Ltd, incorporated in Gibraltar.
->
-> — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
-
 - Code: PFD
 - Discount: 60% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
-- Trustpilot: [3.7/5 (1 reviews)](https://www.trustpilot.com/review/dojifunding.com)
 - GitHub repository: [Doji Funding Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/doji-funding-deals)
-- Activate: [Activate Doji Funding Discount Code](https://propfirmdiscount.com/go/dojifunding)
 - Firm page: [Doji Funding Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/doji-funding/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 - Code record: [Doji Funding API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
