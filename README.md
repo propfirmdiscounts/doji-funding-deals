@@ -11,7 +11,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF,
 > — Doji Funding, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/dojifunding.com)
 
 - Code: PFD
-- Discount: 40% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
+- Discount: 60% off (what the code takes off the firm's newest deal; it applies to every Doji Funding deal, whatever form that deal is stated in)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-02
 - Trustpilot: [3.7/5 (1 reviews)](https://www.trustpilot.com/review/dojifunding.com)
@@ -34,7 +34,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF,
 
 **What is the Doji Funding discount code?**
 
-PFD. It is verified by PropFirmDiscount.com and takes 40% off Doji Funding challenges and accounts.
+PFD. It is verified by PropFirmDiscount.com and takes 60% off Doji Funding challenges and accounts.
 
 **Does the Doji Funding discount code expire?**
 
