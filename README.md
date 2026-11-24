@@ -24,7 +24,7 @@ As of November 2026, the verified Doji Funding discount code is PFD — 60% OFF,
 ## Latest Doji Funding deal: GTA VI Promo: 60% Off Challenges (code PFD)
 
 - Published: 2026-11-19
-- Offer ends: 2026-11-23
+- Offer ends: 2026-11-23 (ended)
 - Offer: 60% off
 - Scope: Every Challenge (1-Step And 2-Step)
 - Code: PFD
@@ -42,7 +42,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Doji Funding deal?**
 
-**GTA VI Promo: 60% Off Challenges (code PFD)** — published 2026-11-19. Offer ends: 2026-11-23. The offer is 60% off.
+**GTA VI Promo: 60% Off Challenges (code PFD)** — published 2026-11-19. Offer ends: 2026-11-23 (ended). The offer is 60% off.
 
 ---
 
@@ -54,7 +54,7 @@ Total deals tracked: **4**
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
-| 2026-11-19 | Doji Funding: GTA VI Promo: 60% Off Challenges (code PFD) | 60% off | 2026-11-23 | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-gta-vi-launch-promo-60-off/) |
+| 2026-11-19 | Doji Funding: GTA VI Promo: 60% Off Challenges (code PFD) | 60% off | 2026-11-23 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-gta-vi-launch-promo-60-off/) |
 | 2026-11-02 | Doji Funding: 60% off every challenge, plus reset savings (code PFD) | 60% off | 2026-11-08 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-election-day-60-percent-off/) |
 | 2026-10-26 | Doji Funding: 60% Off All Challenges for Halloween (code PFD) | 60% off | 2026-10-31 (ended) | Halloween | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-halloween-60-off-every-challenge/) |
 | 2026-10-12 | Doji Funding: 30% Off Every Configurable Evaluation Account (code PFD) | 30% off | 2026-10-12 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/doji-funding/doji-funding-launch-day-30-off/) |
