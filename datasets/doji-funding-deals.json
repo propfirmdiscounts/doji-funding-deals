@@ -1,5 +1,27 @@
 [
   {
+    "deal_id": 13473,
+    "title": "Up to 60% Off Every Challenge (code PFD)",
+    "offer_type": "coupon",
+    "discount_value": "60%",
+    "scope": [
+      "Every Challenge"
+    ],
+    "date_published": "2026-11-25",
+    "date_exp": "2026-11-29 23:59",
+    "event": "Black Friday",
+    "last_verified": "2026-11-25",
+    "post_url": "https://propfirmdiscount.com/deals/doji-funding/doji-funding-black-friday-up-to-60-off-every-challenge/",
+    "prop_firm": "Doji Funding",
+    "prop_firm_slug": "doji-funding",
+    "standing_code": "PFD",
+    "standing_discount": "60%",
+    "activation_link": "https://propfirmdiscount.com/go/dojifunding",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/doji-funding/",
+    "code": "PFD",
+    "code_state": "standing"
+  },
+  {
     "deal_id": 13287,
     "title": "GTA VI Promo: 60% Off Challenges (code PFD)",
     "offer_type": "coupon",
